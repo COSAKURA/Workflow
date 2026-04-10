@@ -27,11 +27,6 @@
   <img width="49%" src="https://streak-stats.demolab.com?user=COSAKURA&theme=radical&hide_border=true"/>
 </p>
 
-<!-- Metrics 总览 -->
-<p align="center">
-  <img width="95%" src="./github-metrics.svg"/>
-</p>
-
 <!-- 活动图 -->
 <p align="center">
   <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=COSAKURA&theme=react-dark&hide_border=true&area=true"/>
