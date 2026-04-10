@@ -32,16 +32,6 @@
   <img width="95%" src="./github-metrics.svg"/>
 </p>
 
-<!-- 语言统计 -->
-<p align="center">
-  <img width="70%" src="./metrics-languages.svg"/>
-</p>
-
-<!-- 编码习惯 -->
-<p align="center">
-  <img width="70%" src="./metrics-habits.svg"/>
-</p>
-
 <!-- 活动图 -->
 <p align="center">
   <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=COSAKURA&theme=react-dark&hide_border=true&area=true"/>
